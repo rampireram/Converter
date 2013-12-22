@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bin&lt;->Oct&lt;->Hex</string>
+    <string name="action_settings">Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_title"><font><center>Bin&lt;->Oct&lt;->Hex</center> </font></string>
+<string name="about_text">
+Its so easy to use this app. Just type the number in the
+desired box(<i>Number format</i>) and press the <i><b>Arrow</b></i>
+to convert the number to the other three <i><b>Number formats</b></i>
+</string>
+</resources>
